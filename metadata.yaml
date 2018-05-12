@@ -1,0 +1,30 @@
+_repo: The-Outdoor-Girls-on-Pine-Island--Or-A-Cave-and-What-It-Contained_19294
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hope, Laura Lee
+    gutenberg_agent_id: '367'
+    url: http://www.gutenberg.org/2009/agents/367
+    wikipedia: http://en.wikipedia.org/wiki/Laura_Lee_Hope
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2006-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19294'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcsh 'Girls -- Societies and clubs -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Caves -- Juvenile fiction'
+title: The Outdoor Girls on Pine Island; Or, A Cave and What It Contained
+url: http://www.gutenberg.org/ebooks/19294
